@@ -61,4 +61,3 @@ git config commit.gpgsign true
 git config --global commit.gpgsign true
 git config --global tag.gpgSign true
 ```
-
